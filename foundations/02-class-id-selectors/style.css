@@ -4,6 +4,12 @@
 
 }
 
+.odd:hover{
+    background-color: black;
+    color: white;   
+}
+
+
 .odd.three{
     font-size: 24px;
 }
